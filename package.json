@@ -3,9 +3,9 @@
   "version": "1.0.3",
   "private": true,
   "description": "xss demo",
-  "author": "耗子",
+  "author": "lee",
   "contributors": [
-    "耗子"
+    "lee"
   ],
   "main": "main.js",
   "scripts": {
